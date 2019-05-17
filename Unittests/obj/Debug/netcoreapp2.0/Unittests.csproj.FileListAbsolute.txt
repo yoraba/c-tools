@@ -1,0 +1,17 @@
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/Unittests.deps.json
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/Unittests.runtimeconfig.json
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/Unittests.runtimeconfig.dev.json
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/Unittests.dll
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/Unittests.pdb
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/Parser.dll
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/bin/Debug/netcoreapp2.0/Parser.pdb
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/obj/Debug/netcoreapp2.0/Unittests.csprojAssemblyReference.cache
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/obj/Debug/netcoreapp2.0/Unittests.csproj.CoreCompileInputs.cache
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/obj/Debug/netcoreapp2.0/Unittests.AssemblyInfoInputs.cache
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/obj/Debug/netcoreapp2.0/Unittests.AssemblyInfo.cs
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/obj/Debug/netcoreapp2.0/Unittests.csproj.CopyComplete
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/obj/Debug/netcoreapp2.0/Unittests.dll
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/Unittests/obj/Debug/netcoreapp2.0/Unittests.pdb

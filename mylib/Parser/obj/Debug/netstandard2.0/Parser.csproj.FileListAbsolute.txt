@@ -1,0 +1,9 @@
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/obj/Debug/netstandard2.0/Parser.csprojAssemblyReference.cache
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/obj/Debug/netstandard2.0/Parser.csproj.CoreCompileInputs.cache
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/obj/Debug/netstandard2.0/Parser.AssemblyInfoInputs.cache
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/obj/Debug/netstandard2.0/Parser.AssemblyInfo.cs
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/bin/Debug/netstandard2.0/Parser.deps.json
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/bin/Debug/netstandard2.0/Parser.dll
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/bin/Debug/netstandard2.0/Parser.pdb
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/obj/Debug/netstandard2.0/Parser.dll
+/home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/obj/Debug/netstandard2.0/Parser.pdb
