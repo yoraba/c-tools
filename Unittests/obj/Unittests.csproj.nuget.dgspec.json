@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\作業フォルダ\\cstools\\Unittests\\Unittests.csproj": {}
+  },
+  "projects": {
+    "C:\\作業フォルダ\\cstools\\mylib\\Parser\\Parser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\作業フォルダ\\cstools\\mylib\\Parser\\Parser.csproj",
+        "projectName": "Parser",
+        "projectPath": "C:\\作業フォルダ\\cstools\\mylib\\Parser\\Parser.csproj",
+        "packagesPath": "C:\\Users\\k.yoshimura\\.nuget\\packages\\",
+        "outputPath": "C:\\作業フォルダ\\cstools\\mylib\\Parser\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k.yoshimura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\作業フォルダ\\cstools\\Unittests\\Unittests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\作業フォルダ\\cstools\\Unittests\\Unittests.csproj",
+        "projectName": "Unittests",
+        "projectPath": "C:\\作業フォルダ\\cstools\\Unittests\\Unittests.csproj",
+        "packagesPath": "C:\\Users\\k.yoshimura\\.nuget\\packages\\",
+        "outputPath": "C:\\作業フォルダ\\cstools\\Unittests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k.yoshimura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\作業フォルダ\\cstools\\mylib\\Parser\\Parser.csproj": {
+                "projectPath": "C:\\作業フォルダ\\cstools\\mylib\\Parser\\Parser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.7.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

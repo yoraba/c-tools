@@ -27,7 +27,7 @@ namespace Unittests
         public void TestCSV2Dict()
         {
             var parser = new CSVParser();
-            var path = System.IO.Path.Combine(DAT_PATH, "c2d.csv");
+            var path = System.IO.Path.Combine(DAT_PATH, "c2d.csv");           
             var answer = parser.Str2Dict(parser.FromFile(path));
             Assert.True(answer != null);
             foreach (var row in answer)
@@ -38,6 +38,34 @@ namespace Unittests
                 }
                 Console.WriteLine();
             }
+        }
+
+        [Fact]
+        public void TestDict2JSON()
+        {
+            var parser = new Parser.JSONParser();
+            var path = System.IO.Path.Combine(DAT_PATH, "d2j.json");
+            var answer = parser.Dict2Str(_dict_list);
+
+            Assert.True(parser.ToFile(path,new List<string>{parser.Dict2Str(_dict_list[0])}));
+            Assert.True(System.IO.File.Exists(path));
+
+        }
+
+        [Fact]
+        public void TestJSON2Dict()
+        {
+            var parser = new JSONParser();
+            var path = System.IO.Path.Combine(DAT_PATH, "j2d.json");
+             string marge = string.Concat(parser.FromFile(path));
+            var answer = parser.Str2Dict(marge);
+            Assert.True(answer != null);
+            foreach(var row in answer)
+            {
+                Console.Write($"{row.Key}:{row.Value} ");
+
+            }
+        
         }
     }
 }
