@@ -7,3 +7,12 @@
 /home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/bin/Debug/netstandard2.0/Parser.pdb
 /home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/obj/Debug/netstandard2.0/Parser.dll
 /home/ky/repo/csharp-tools/csharp-tools.git/trunk/mylib/Parser/obj/Debug/netstandard2.0/Parser.pdb
+C:\作業フォルダ\cstools\mylib\Parser\bin\Debug\netstandard2.0\Parser.deps.json
+C:\作業フォルダ\cstools\mylib\Parser\bin\Debug\netstandard2.0\Parser.dll
+C:\作業フォルダ\cstools\mylib\Parser\bin\Debug\netstandard2.0\Parser.pdb
+C:\作業フォルダ\cstools\mylib\Parser\obj\Debug\netstandard2.0\Parser.csprojAssemblyReference.cache
+C:\作業フォルダ\cstools\mylib\Parser\obj\Debug\netstandard2.0\Parser.csproj.CoreCompileInputs.cache
+C:\作業フォルダ\cstools\mylib\Parser\obj\Debug\netstandard2.0\Parser.AssemblyInfoInputs.cache
+C:\作業フォルダ\cstools\mylib\Parser\obj\Debug\netstandard2.0\Parser.AssemblyInfo.cs
+C:\作業フォルダ\cstools\mylib\Parser\obj\Debug\netstandard2.0\Parser.dll
+C:\作業フォルダ\cstools\mylib\Parser\obj\Debug\netstandard2.0\Parser.pdb
